@@ -48,6 +48,63 @@ public class DrawDemo
         }
     }
 
+    public void drawTriangle(){
+        Pen pen = new Pen(320, 260, myCanvas);
+        pen.setColor(Color.BLUE);
+        triangle(pen);
+    }
+
+    private void triangle(Pen pen)
+    {
+        for (int i=0; i<3; i++) {
+            pen.move(100);
+            pen.turn(120);
+        }
+    }
+
+    public void drawPentagon(){
+        Pen pen = new Pen(320, 260, myCanvas);
+        pen.setColor(Color.BLUE);
+        pentagon(pen);
+    }
+
+    private void pentagon(Pen pen)
+    {
+        for (int i=0; i<5; i++) {
+            pen.move(100);
+            pen.turn(72);
+        }
+    }
+
+    public void drawPolygon(int n)
+    {
+        Random rnd = new Random();
+        Pen pen = new Pen(rnd.nextInt(200), rnd.nextInt(200), myCanvas);
+        polygon(pen, n);
+    }
+
+    private void polygon(Pen pen, int n)
+    {
+        for (int i = 0; i < n; i++) {
+            pen.move(50);
+            pen.turn(180 - ((n - 2) * 180 / n));
+        }
+    }
+
+    public void drawSpiral()
+    {
+        Pen pen = new Pen(100, 100, myCanvas);
+        int len = 200;
+        while (len > 0)
+        {
+            pen.move(len);
+            pen.turn(90);
+            pen.move(len);
+            pen.turn(90);
+            len -= 5;
+        }
+    }
+
     /**
      * Draw a square in the pen's color at the pen's location.
      */
