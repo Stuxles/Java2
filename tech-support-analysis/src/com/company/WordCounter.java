@@ -33,4 +33,8 @@ public class WordCounter
             counts.put(word, counter + 1);
         }
     }
+
+    public void printWords(){
+        counts.forEach((k,v)->System.out.println("Woord: " + k + " Hoeveel: " + v));
+    }
 }

@@ -53,6 +53,7 @@ public class SupportSystem
             }
         }
         printGoodbye();
+        counter.printWords();
     }
 
     /**
