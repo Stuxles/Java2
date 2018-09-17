@@ -133,6 +133,13 @@ public class DrawDemo
             pen.randomSquiggle();
         }
     }
+
+    public void randomThing(){
+        myCanvas.fillCircle(200,200,200);
+        myCanvas.setForegroundColor(Color.blue);
+        myCanvas.fillRectangle(120,120,30,30);
+        myCanvas.setForegroundColor(Color.YELLOW);
+    }
     
     /**
      * Clear the screen.
