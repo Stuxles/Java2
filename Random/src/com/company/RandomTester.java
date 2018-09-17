@@ -7,7 +7,6 @@ import java.util.Random;
 
 public class RandomTester {
     Random random = new Random();
-
     public int printOneRandom (){
         return random.nextInt();
     }
@@ -28,13 +27,6 @@ public class RandomTester {
         aresponse.add("Misschien");
         aresponse.add("Nee");
         int randRes = random.nextInt(3);
-//        if (randRes == 0){
-//            response = "Ja";
-//        }else if (randRes == 1){
-//            response = "Misschien";
-//        }else{
-//            response = "nee";
-//        }
         response = aresponse.get(randRes);
         return response;
     }
