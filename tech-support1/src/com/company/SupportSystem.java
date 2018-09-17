@@ -1,4 +1,6 @@
 package com.company;
+import java.util.HashSet;
+
 /**
  * This class implements a technical support system. It is the top level class 
  * in this project. The support system communicates via text input/output 
@@ -10,7 +12,7 @@ package com.company;
  * leave.
  * 
  * @author     Michael Kölling and David J. Barnes
- * @version    0.1 (2016.02.29)
+ * @version    1.0 (2016.02.29)
  */
 public class SupportSystem
 {
@@ -26,11 +28,7 @@ public class SupportSystem
         responder = new Responder();
     }
 
-    /**
-     * Start the technical support system. This will print a welcome
-     * message and enter into a dialog with the user, until the user
-     * ends the dialog.
-     */
+    
     public void start()
     {
         boolean finished = false;
@@ -38,16 +36,16 @@ public class SupportSystem
         printWelcome();
 
         while(!finished) {
-            String input = reader.getInput().trim().toLowerCase();
-            if(input.equals("bye")) {
+            HashSet<String> input = reader.getInput();
+
+            if(input.contains("bye")) {
                 finished = true;
             }
             else {
-                String response = responder.generateResponse();
+                String response = responder.generateResponse(input);
                 System.out.println(response);
             }
         }
-
         printGoodbye();
     }
 
