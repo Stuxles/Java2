@@ -2,7 +2,152 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25a1575-73fa-46d8-b9dd-6ef85e15e100" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/MapTester.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/out/production/MapTester/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/out/production/MapTester/com/company/MapTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapTester/src/com/company/MapTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/Random.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/out/production/Random/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/out/production/Random/com/company/RandomTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Random/src/com/company/RandomTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bouncing-balls-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/BallDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/BouncingBall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/Canvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/Canvas$CanvasPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bouncing-balls-demo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BallDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BouncingBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/Canvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/Canvas$CanvasPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/DrawDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/out/production/scribble/Pen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/scribble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/src/DrawDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble/src/Pen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/Responder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/SupportSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/WordCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/InputReader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/logfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/resources/inherit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/out/production/tech-support-analysis/com/company/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/Responder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/SupportSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/WordCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/InputReader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/logfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/resources/inherit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/src/com/company/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-analysis/tech-support-analysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/InputReader.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/Responder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/Responder.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/SupportSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/SupportSystem.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/out/production/tech-support-complete/com/company/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/InputReader.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/Responder.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/Responder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/SupportSystem.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/SupportSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/src/com/company/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support-complete/tech-support-complete.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/out/production/tech-support1/com/company/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/out/production/tech-support1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/out/production/tech-support1/com/company/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/out/production/tech-support1/com/company/Responder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/src/com/company/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/src/com/company/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/src/com/company/Responder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/src/com/company/SupportSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tech-support1/tech-support1.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +160,13 @@
     <session id="-1359918124">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,29 +192,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BallDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -99,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,14 +241,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537222352002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537817974527" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -170,16 +293,17 @@
       <workItem from="1537534132100" duration="41000" />
       <workItem from="1537534204012" duration="30000" />
       <workItem from="1537817715605" duration="139000" />
+      <workItem from="1537817925299" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1547000" />
+    <option name="totallyTimeSpent" value="1813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
