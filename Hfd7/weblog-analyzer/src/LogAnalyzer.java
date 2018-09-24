@@ -60,4 +60,57 @@ public class LogAnalyzer
     {
         reader.printData();
     }
+
+    public int numberOfAccesses(){
+        int total = 0;
+        for (int hour = 0; hour < hourCounts.length; hour++){
+            total += hourCounts[hour];
+        }
+        return total;
+    }
+
+    public int busiestHour()
+    {
+        int busiestHour = 0;
+        int busy = 0;
+        for(int hour = 0; hour < hourCounts.length; hour++) {
+            if( busy < hourCounts[hour]) {
+                busy =  hourCounts[hour];
+                busiestHour = hour;
+            }
+        }
+        return busiestHour;
+    }
+
+    public int quitestHour()
+    {
+        int quitestHour = 0;
+        int quiet = hourCounts[0];
+        for(int hour = 1; hour < hourCounts.length; hour++) {
+            if( quiet > hourCounts[hour]) {
+                quiet =  hourCounts[hour];
+                quitestHour = hour;
+            }
+        }
+        return quitestHour;
+    }
+
+    public int twoBusiestHour()
+    {
+        int numberOfAccessesAtBusiest = 0;
+        int busiestHour = 0;
+        int index = 0;
+
+        while(index < hourCounts.length - 1){
+            if (numberOfAccessesAtBusiest < hourCounts[index] + hourCounts[index + 1]){
+                busiestHour = index;
+                numberOfAccessesAtBusiest = hourCounts[index] + hourCounts[index + 1];
+                index++;
+            }
+            else {
+                index++;
+            }
+        }
+        return busiestHour;
+    }
 }
